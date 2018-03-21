@@ -1,5 +1,5 @@
 
-This is a simple react-redux project and webpack is being used for configuration.
+This is a simple react project and webpack is being used for configuration.
 
 Easy to understand and easy to follow.
 
