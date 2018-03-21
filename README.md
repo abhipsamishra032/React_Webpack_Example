@@ -1,16 +1,8 @@
-# React_Webpack_Example
 
-Basic Commands to create a React app project
+This is a simple react-redux project and webpack is being used for configuration.
 
-npm init - Creates package.json
+Easy to understand and easy to follow.
 
-npm install react react-dom --save-dev
-npm install babel-core babel-loader webpack --save-dev
-npm install babel-preset-es2015 babel-preset-react --save-dev
-npm install babel-preset-es2015 babel-preset-react --save-dev
-
-npm install babelify
 npm install - install all package
-npm run start - run the server
 
-
+npm run start - compile and run the server
